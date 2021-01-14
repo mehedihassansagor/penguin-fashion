@@ -1,0 +1,39 @@
+.womanjaket-image{
+    height: 400px;
+}
+.all-card{
+    border: none;
+    border-radius: 20px;
+}
+.all-footer{
+    border: none;
+}
+body{
+    font-family: 'Karla', sans-serif;
+    background-color:snow;
+}
+.fontchange{
+    color:khaki;
+    font-size: 4rem;
+    font-weight: 900;
+}
+.fontchange2{
+color: mediumpurple;
+font-weight: 700;
+}
+h1{
+    color: orange;
+}
+p{
+    font-weight: normal;
+}
+button{
+    height: 50px;
+    width: 100px;
+}
+button{
+    width: auto;
+    padding: 3px;
+    height: auto;
+
+}
